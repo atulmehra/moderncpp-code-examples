@@ -1,4 +1,4 @@
-# C++  20/17/14/11. Modern cpp new features code examples.
+# C++  20/17/14/11 code examples
 
 Table of Contents. (More features coming)
 
