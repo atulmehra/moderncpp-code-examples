@@ -13,6 +13,7 @@ include_directories("${PROJECT_SOURCE_DIR}")
  
 add_subdirectory(cmake_proj_setup)
 add_subdirectory(cpp20_code_examples)
+add_subdirectory(cpp17_code_examples)
 
 # set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
