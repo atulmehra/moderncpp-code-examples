@@ -10,5 +10,6 @@ Table of Contents. (More features coming)
 | C++20 | Concurrency | Latches | Coming soon |  |
 | C++20 | Concepts | TBD | Coming soon |  |
 | C++20 | 3 way comparison | TBD | Coming soon |  |
-| C++17 | Folding expressions  | TBD | Coming soon |  |
+| C++17 | Folding expressions  | Left Fold | Yes |  |
+| C++17 | Folding expressions  | Right Fold | Coming Soon |  |
 | C++17 | Parallel loops | TBD | Coming soon |  |
