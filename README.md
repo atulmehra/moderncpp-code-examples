@@ -1,8 +1,8 @@
-Modern cpp new features code example for 20/17/14/11.
+# C++  20/17/14/11. Modern cpp new features code examples.
 
 Table of Contents. (More features coming)
 
-| C++ Version  | Topic | New Feature  | Code Sample Available? | Note |
+| C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | C++20 | Bitfields | Default initialization | Yes |  |
 | C++20 | Bitfields | Max Munch Rule | Coming soon |  |
