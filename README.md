@@ -2,24 +2,28 @@
 
 Table of Contents. (More features coming)
 
+# C++20
+| Sr No | C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
+| ---| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1| C++20 | Bitfields | Default initialization | Yes |  |
+|2| C++20 | Bitfields | Max Munch Rule | Coming soon |  |
+|3| C++20 | Lambda | Capture 'this' vs capture \*this | Yes | 1.lambda capture [this] 2. capture [\*this] \*this capture should be used with NUMA friendly & async code. **Bug opened with gnu gcc.** [95388](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95388) |
+|4| C++20 | 3 way comparison | TBD | Coming soon |  |
+|5| C++20 | Concurrency | Latches | Coming soon |  |
+|6| C++20 | Atomics | Compare & Exchange with bits padding | Coming soon |  |
+|7| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
+|8| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
+|9| C++20 | Concepts | TBD | Coming soon |  |
+|10| C++20 | Modules | TBD | Coming soon |  |
+|11| C++20 | Coroutines | TBD | Coming soon |  |
+|12| C++20 | Ranges | Relaxing the range-for loop customization point finding rules  | Coming soon |  |
 
-| C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| C++20 | Bitfields | Default initialization | Yes |  |
-| C++20 | Bitfields | Max Munch Rule | Coming soon |  |
-| C++20 | Lambda | Capture 'this' vs capture \*this | Yes | 1.lambda capture [this] 2. capture [\*this] \*this capture should be used with NUMA friendly & async code. **Bug opened with gnu gcc.** [95388](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95388) |
-| C++20 | 3 way comparison | TBD | Coming soon |  |
-| C++20 | Concurrency | Latches | Coming soon |  |
-| C++20 | Atomics | Compare & Exchange with bits padding | Coming soon |  |
-| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
-| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
-| C++20 | Concepts | TBD | Coming soon |  |
-| C++20 | Modules | TBD | Coming soon |  |
-| C++20 | Coroutines | TBD | Coming soon |  |
-| C++20 | Ranges | Relaxing the range-for loop customization point finding rules  | Coming soon |  |
-| C++17 | Folding expressions  | Left Fold | Yes |  |
-| C++17 | Folding expressions  | Right Fold | Coming Soon |  |
-| C++17 | Parallel loops | TBD | Coming soon |  |
+# C++17
+| Sr No | C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
+| ---| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1| C++17 | Folding expressions  | Left Fold | Yes |  |
+|2| C++17 | Folding expressions  | Right Fold | Coming Soon |  |
+|3| C++17 | Parallel loops | TBD | Coming soon |  |
 
 
 
