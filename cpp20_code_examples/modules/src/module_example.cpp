@@ -1,6 +1,7 @@
 module;
-export module module_example;
 #include <iostream>
+
+export module module_example;
 
 export void SimpleModuleExample()
 {
