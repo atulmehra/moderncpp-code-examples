@@ -14,8 +14,8 @@ Table of Contents. (More features coming)
 |7| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
 |8| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
 |9| C++20 | Concepts | TBD | Coming soon |  |
-|10| C++20 | Modules | TBD | Coming soon |  |
-|11| C++20 | Coroutines | TBD | Coming soon |  |
+|10| C++20 | Modules | TBD | Coming soon | 1. Feature request in [Goldbolt](https://github.com/compiler-explorer/compiler-explorer/issues/2166). 2. Stackoverflow [link](https://stackoverflow.com/questions/60760248/how-to-test-c-modules-with-godbolt-compiler-explorer/63682170#63682170) |
+|11| C++20 | Coroutines | TBD | Yes |  | See [Godbolt](https://godbolt.org/z/6GEY95) example too
 |12| C++20 | Ranges | Relaxing the range-for loop customization point finding rules  | Coming soon |  |
 
 # C++17
