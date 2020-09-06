@@ -1,6 +1,7 @@
 #ifndef TEMPLATIZED_GENERATOR
 #define TEMPLATIZED_GENERATOR
 template <typename ENCAPSULATED_TYPE>
+#include <coroutine>
 struct Couroutine_Example_Generator
 {
     struct promise_type;

@@ -1,5 +1,4 @@
 #include <iostream>
-#include <coroutine>
 #include "templatized_generator.h"
 
 #define TOPIC "Coroutines"
