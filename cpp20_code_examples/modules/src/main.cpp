@@ -1,4 +1,3 @@
-#include "moderncpp_code_examples_config.h"
 #include <iostream>
 import modules_example;
 
@@ -7,14 +6,13 @@ import modules_example;
 void Feature_Modules_SimpleModuleExample()
 {
   const std::string FEATURE_EXAMPLE_NAME = "Modules_SimpleModuleExample";
-  demo_start(FEATURE_EXAMPLE_NAME);
+  std::cout << "Start " << __func__ << std::endl;
   SimpleModuleExample();
-  demo_end(FEATURE_EXAMPLE_NAME);
+  std::cout << "End " << __func__ << std::endl;
 }
 
 int main(int argc, char *argv[])
 {
-  std::cout << "CPP version:" << CPP_VERSION << std::endl;
   std::cout << "Topic:" << TOPIC << std::endl;
   Feature_Modules_SimpleModuleExample();
 }
