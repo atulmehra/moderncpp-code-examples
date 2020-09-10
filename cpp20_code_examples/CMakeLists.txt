@@ -10,4 +10,5 @@ add_subdirectory(three_way_comparison)
 add_subdirectory(modules)
 add_subdirectory(coroutines)
 add_subdirectory(concepts)
+add_subdirectory(constexpr)
 
