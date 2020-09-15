@@ -11,4 +11,6 @@ add_subdirectory(modules)
 add_subdirectory(coroutines)
 add_subdirectory(concepts)
 add_subdirectory(constexpr)
+add_subdirectory(variadic_macros)
+add_subdirectory(ranges)
 
