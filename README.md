@@ -14,11 +14,12 @@ Table of Contents. (More features coming)
 |7| C++20 | Ranges | Lazy algos & function chaining  | Yes |  |
 |8| C++20 | Ranges | Simplified usage of algorithms  | Yes |  |
 |9| C++20 | Ranges | Views  | Yes |  |
-|10| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
-|11| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
-|12| C++20 | Bitfields | Max Munch Rule | Coming soon |  |
-|13| C++20 | Concurrency | Latches | Coming soon |  |
-|14| C++20 | Atomics | Compare & Exchange with bits padding | Coming soon |  |
+|10| C++20 | Constexpr | Call new from a constexpr | Yes |  |
+|11| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
+|12| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
+|13| C++20 | Bitfields | Max Munch Rule | Coming soon |  |
+|14| C++20 | Concurrency | Latches | Coming soon |  |
+|15| C++20 | Atomics | Compare & Exchange with bits padding | Coming soon |  |
 
 # C++17
 | Sr No | C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
