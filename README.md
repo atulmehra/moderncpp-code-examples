@@ -11,12 +11,14 @@ Table of Contents. (More features coming)
 |4| C++20 | Concepts | Apply constraints using concepts on a function | Yes |  |
 |5| C++20 | Modules | Import, export a module | Yes | 1. Feature request in [Goldbolt](https://github.com/compiler-explorer/compiler-explorer/issues/2166). 2. Stackoverflow [link](https://stackoverflow.com/questions/60760248/how-to-test-c-modules-with-godbolt-compiler-explorer/63682170#63682170) |
 |6| C++20 | Coroutines | Coyield | Yes |  | See [Godbolt](https://godbolt.org/z/6GEY95) example too
-|7| C++20 | Ranges | Relaxing the range-for loop customization point finding rules  | Coming soon |  |
-|8| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
-|9| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
-|10| C++20 | Bitfields | Max Munch Rule | Coming soon |  |
-|11| C++20 | Concurrency | Latches | Coming soon |  |
-|12| C++20 | Atomics | Compare & Exchange with bits padding | Coming soon |  |
+|7| C++20 | Ranges | Lazy algos & function chaining  | Yes |  |
+|8| C++20 | Ranges | Simplified usage of algorithms  | Yes |  |
+|9| C++20 | Ranges | Views  | Yes |  |
+|10| C++20 | Constexpr | Virtual calls from constexpr | Coming soon |  |
+|11| C++20 | Constexpr | Relaxations of constexpr restrictions | Coming soon |  |
+|12| C++20 | Bitfields | Max Munch Rule | Coming soon |  |
+|13| C++20 | Concurrency | Latches | Coming soon |  |
+|14| C++20 | Atomics | Compare & Exchange with bits padding | Coming soon |  |
 
 # C++17
 | Sr No | C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
