@@ -6,7 +6,7 @@ Table of Contents. (More features coming)
 | Sr No | C++ Version  | Topic | New Feature  | Code Sample Available? | Notes |
 | ---| ------------- | ------------- | ------------- | ------------- | ------------- |
 |1| C++20 | Bitfields | Default initialization | Yes |  |
-|2| C++20 | Lambda | Capture 'this' vs capture \*this | Yes | 1.lambda capture [this] 2. capture [\*this] \*this capture should be used with NUMA friendly & async code. **Bug opened with gnu gcc.** [95388](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95388) |
+|2| C++20 | Lambda | Capture 'this' vs capture \*this | Yes | 1.lambda capture [this] 2. capture [\*this] \*this capture should be used with NUMA friendly & async code. **Bug opened with gnu gcc.** [95388](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95388). Fixed by gnu on 16-Oct-20 |
 |3| C++20 | 3 way comparison | Example | Yes |  |
 |4| C++20 | Concepts | Apply constraints using concepts on a function | Yes |  |
 |5| C++20 | Modules | Import, export a module | Yes | 1. Feature request in [Goldbolt](https://github.com/compiler-explorer/compiler-explorer/issues/2166). 2. Stackoverflow [link](https://stackoverflow.com/questions/60760248/how-to-test-c-modules-with-godbolt-compiler-explorer/63682170#63682170) |
